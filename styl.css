@@ -1,0 +1,11 @@
+#nav{
+
+	margin-top:-20px;
+    padding:10px;
+    text-align: center;
+    display: grid; 
+    grid-template-columns: 1fr 2fr 2fr 2fr ;
+    border-bottom:orange solid 1px;
+    border-top:orange solid 1px;
+	font-size:large;
+}
